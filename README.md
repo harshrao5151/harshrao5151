@@ -68,7 +68,7 @@ I enjoy working with data, building predictive models, and creating dashboards t
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/navneet-data  
+💼 LinkedIn: https://www.linkedin.com/in/harshyadav-data/ 
 📧 Email: harshrao50500@gmail.com
 ---
 
