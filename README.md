@@ -13,7 +13,7 @@
 
 I am an **Aspiring Data Scientist** with a strong interest in transforming raw data into meaningful insights that support smarter business decisions.
 
-🎓 Currently pursuing **BCA from IGNOU (2022–2025)**  
+🎓 Currently pursuing **BCA from VGU Jaipur (2022–2025)**  
 📚 Completing **Data Science Certification from upGrad (2026)**  
 💡 Passionate about **Machine Learning, AI, and Data Visualization**
 
